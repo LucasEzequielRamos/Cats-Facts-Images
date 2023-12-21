@@ -1,11 +1,31 @@
-APIs:
+# Cats Facts
 
-Facts Random: https://catfact.ninja/fact
+This project was taken from a technical test for junior or front-end trainee using react, handling requests to different APIs
 
-Imagen random: https://cataas.com/cat/says/%{word}
+## Getting Started
 
-Recupera un hecho aleatorio de gatos de la primera API :check
+### Installing
 
-Recuperar la primera palabra del hecho
 
-Muestra una imagen de un gato con la primera palabra.
+```bash
+# Clone this repository
+$ git clone https://github.com/LucasEzequielBecerra/ArtAir.git
+ 
+OR
+
+#Download ZIP
+
+# Go into the repository
+$ cd ArtAir
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run dev
+```
+
+
+## Deployment
+
+Add additional notes to deploy this on a live system
