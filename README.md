@@ -9,14 +9,14 @@ This project was taken from a technical test for junior or front-end trainee usi
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/LucasEzequielBecerra/ArtAir.git
+$ git clone https://github.com/LucasEzequielBecerra/Cats-Facts-Images.git
  
 OR
 
 #Download ZIP
 
 # Go into the repository
-$ cd ArtAir
+$ cd CatsFactsImages
 
 # Install dependencies
 $ npm install
