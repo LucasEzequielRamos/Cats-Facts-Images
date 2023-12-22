@@ -16,7 +16,7 @@ OR
 #Download ZIP
 
 # Go into the repository
-$ cd CatsFactsImages
+$ cd Cats-Facts-Images
 
 # Install dependencies
 $ npm install
